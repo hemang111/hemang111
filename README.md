@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hemang111
 - 👀 I’m interested in coding
-- dont know a thing about programming
--jee student studing in class 11th
-have great ideas for project
+- Don't know a thing about programming
+- Jee student studing in class 11th
+  Have great ideas for project
 - 💞️ I’m looking to meet a expert programmer to make a revolutionary program with him.
 - 📫 How to reach me ...
 - contact at hemangc37@gmail.com
