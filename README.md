@@ -21,7 +21,7 @@
   <br>
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hemang111&repo=TO-DO-List)](https://github.com/hemang111/TO-DO-List)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hemang111&repo=Coding_Samurai)](https://github.com/hemang111/Coding_Samurai)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hemang111&repo=CodingSamurai)](https://github.com/hemang111/CodingSamurai)
 
   </div>
 <!---
