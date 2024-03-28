@@ -13,6 +13,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hemang111&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemang111&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<div>
+<h2>My Current Repos</h2>
+  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hemang111&repo=TO-DO-List)](https://github.com/hemang111/TO-DO-List)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hemang111&repo=Coding_Samurai)]([https://github.com/hemang111/TO-DO-List](https://github.com/hemang111/Coding_Samurai))
+
+  </div>
 <!---
 hemang111/hemang111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
